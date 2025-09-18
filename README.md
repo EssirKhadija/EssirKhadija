@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👩‍💻 Khadija Essir - Développeuse Full Stack
+👋 Bienvenue sur mon portfolio GitHub
 
-<!--
-**EssirKhadija/EssirKhadija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 À propos de moi
+-👩 Nom : Khadija Essir
 
-Here are some ideas to get you started:
+-📧 E-mail : essirkhadija@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🔗 LinkedIn : khadija-essir
+
+-💻 GitHub : EssirKhadija
+
+## 🔧 Compétences Techniques
+### 🎨 Front-End :
+-Technologies : HTML, CSS, JavaScript (ES6+)
+
+-Frameworks/Librairies : Bootstrap, React.js
+
+### ⚙️ Back-End :
+-Langages : PHP
+
+### 💾 Bases de données (SGBD) :
+-MySQL
+
+## ⚡ Compétences Transversales
+-Esprit d’équipe
+
+-Autonomie
+
+-Adaptabilité
+
+## 🎯 Centres d’intérêt
+-Sport : Passionnée par le sport, particulièrement le basketball
+
+-Voyage : J’aime explorer de nouveaux pays, découvrir des cultures diverses et rencontrer des personnes d’horizons différents, ce qui stimule ma créativité et mon adaptabilité. ✈️
