@@ -1,35 +1,37 @@
-# 👩‍💻 Khadija Essir - Développeuse Full Stack
-👋 Bienvenue sur mon portfolio GitHub
+# 👩‍💻 Khadija Essir - Full Stack Developer
 
-## 📌 À propos de moi
--👩 Nom : Khadija Essir
+👋 Welcome to my GitHub Portfolio!
 
--📧 E-mail : essirkhadija@gmail.com
+## 📌 About Me
 
--🔗 LinkedIn : khadija-essir
+- 👩 **Name:** Khadija Essir
+- 📧 **Email:** [essirkhadija@gmail.com](mailto\:essirkhadija@gmail.com)
+- 🔗 **LinkedIn:** khadija-essir
+- 💻 **GitHub:** EssirKhadija
 
--💻 GitHub : EssirKhadija
+## 🔧 Technical Skills
 
-## 🔧 Compétences Techniques
-### 🎨 Front-End :
--Technologies : HTML, CSS, JavaScript (ES6+)
+### 🎨 Front-End
 
--Frameworks/Librairies : Bootstrap, React.js
+- **Technologies:** HTML, CSS, JavaScript (ES6+)
+- **Frameworks/Libraries:** Bootstrap, React.js, TypeScript.js
 
-### ⚙️ Back-End :
--Langages : PHP
+### ⚙️ Back-End
 
-### 💾 Bases de données (SGBD) :
--MySQL
+- **Languages:** PHP, Python
+- **Frameworks/Libraries:** Laravel, Express.js
 
-## ⚡ Compétences Transversales
--Esprit d’équipe
+### 💾 Databases (DBMS)
 
--Autonomie
+- MySQL, MongoDB
 
--Adaptabilité
+## ⚡ Soft Skills
 
-## 🎯 Centres d’intérêt
--Sport : Passionnée par le sport, particulièrement le basketball
+- Teamwork
+- Autonomy
+- Adaptability
 
--Voyage : J’aime explorer de nouveaux pays, découvrir des cultures diverses et rencontrer des personnes d’horizons différents, ce qui stimule ma créativité et mon adaptabilité. ✈️
+## 🎯 Interests
+
+- **Sports:** Passionate about sports, particularly basketball.
+- **Travel:** I enjoy exploring new countries, discovering different cultures, and meeting people from diverse backgrounds, which inspires my creativity and strengthens my adaptability. ✈️
